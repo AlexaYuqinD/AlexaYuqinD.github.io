@@ -15,7 +15,7 @@ The ranking is based on [2019 QS Rankings](https://www.topuniversities.com/unive
 </p>
 
 <p align="center">
-  <img src="https://github.com/AlexaYuqinD/AlexaYuqinD.github.io/blob/master/2048/images/shot1.PNG" alt="Screenshot2"/>
+  <img src="https://github.com/AlexaYuqinD/AlexaYuqinD.github.io/blob/master/2048/images/shot2.PNG" alt="Screenshot2"/>
 </p>
 
 Have fun!
