@@ -5,7 +5,7 @@ The ranking is based on [2019 QS Rankings](https://www.topuniversities.com/unive
 
 (I did some research on the sports slogans and colors of each university. Correct me if I'm wrong.)
 
-### [Play the game here!](https://github.com/AlexaYuqinD/AlexaYuqinD.github.io/2048/)
+### [Play the game here!](https://alexayuqind.github.io/2048/)
 
 
 ### Screenshot
