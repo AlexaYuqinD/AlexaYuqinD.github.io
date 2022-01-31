@@ -3,7 +3,7 @@ US university version of [2048](https://play.google.com/store/apps/details?id=co
 
 The ranking is based on [2019 QS Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2019). 
 
-(I did some research on the sports slogans and colors of each university. Correct me if I'm wrong.)
+(I did some research on the sports slogans and representing colors of each university. Correct me if I'm wrong.)
 
 ### [Play the game here!](https://alexayuqind.github.io/2048/)
 
